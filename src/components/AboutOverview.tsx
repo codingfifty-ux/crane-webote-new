@@ -15,7 +15,7 @@ export const AboutOverview: React.FC<AboutOverviewProps> = ({ onOpenQuote }) => 
           <div className="lg:col-span-6 relative">
             <div className="relative rounded-lg overflow-hidden border-2 border-slate-200 shadow-xl bg-slate-950">
               <img
-                src="/assets/crane/ras-crane-main.jpg"
+                src="./assets/crane/ras-crane-main.jpg"
                 alt="RAS Crane Service Commercial Truck and Rigging Fleet"
                 className="w-full h-[400px] sm:h-[460px] object-cover"
                 referrerPolicy="no-referrer"

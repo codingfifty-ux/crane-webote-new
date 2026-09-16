@@ -29,7 +29,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenQuote, onExploreFleet }) => {
       {/* Background Crane Image with High-Contrast Industrial Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/assets/crane/hero-crane.webp"
+          src="./assets/crane/hero-crane.webp"
           alt="Heavy Mobile Crane Truck in Action"
           className="w-full h-full object-cover object-center opacity-35 scale-105 transform"
           referrerPolicy="no-referrer"
